@@ -1,3 +1,5 @@
+This is humans.txt file where i will be adding some paragraphs for testing purpose only. I am just a beginner, learner. I am a hard working person who loves to code. This is the way i want to use my free time by programming. 
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
